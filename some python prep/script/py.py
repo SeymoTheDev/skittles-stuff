@@ -18,10 +18,10 @@ if b == 40:
 
 print("I am not writing this script XD")
 # Robotics is so cool
-print("Hello, This script was written by Spyro, Who is spyro? Spyro is the ultimate AI used for auto scripting.")
+print("Hello, This script was written by Spyro, Who is spyro? Spyro is the ultimate AI used for auto scripting.") #NOT REAL BTW.
 if a == 32:
     print('all is forgiven')
 
-# Quit Slip :)
+# Quit Slip :) 
 a = input("3 >")
 quit()
